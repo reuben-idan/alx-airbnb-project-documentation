@@ -50,6 +50,8 @@ Ensure you have the following installed:
 ## Usage
 Refer to the documentation files in this repository to understand the architecture and features of the backend.
 
+## Author
+Reuben Idan
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
